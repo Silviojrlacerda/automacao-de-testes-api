@@ -1,0 +1,16 @@
+{
+    "productReviewsValido": {
+        "product_id": 22,
+        "review": "Não funciona como deveria!",
+        "rating": 1
+    },
+    "productReviewsEditar": {
+        "product_id": 22,
+        "review": "Funciona sim como deveria!.",
+        "rating": 5
+
+    },
+    "productReviewsDeletar": {
+        "force": true
+    }
+}
